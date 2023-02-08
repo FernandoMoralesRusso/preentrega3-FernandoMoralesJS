@@ -30,35 +30,35 @@
     {
         "id":"5",
         "nombre":"Astrophytum Myriostigma",
-        "descripcion": "No tiene espinas, pero da grandes flores amarillas. Prefiere la semisombra al pleno sol y no le gusta el frío. ",
+        "descripcion": "No tiene espinas, pero da grandes flores amarillas. Prefiere la semisombra al pleno sol. ",
         "precio": 2000,
         "foto": "../media/producto5.jpg"
     },
     {
         "id":"6",
         "nombre":"Richocereus Bridgesii",
-        "descripcion": "crece formando monstruosos abanicos verticales. Debido a su inusual estructura, es buscado por los coleccionistas.",
+        "descripcion": "crece formando monstruosos abanicos verticales. Debido a su inusual estructura.",
         "precio": 7500,
         "foto": "../media/producto6.jpg"
     },
     {
         "id":"7",
         "nombre":"Polaskia Chichipe",
-        "descripcion": "Su cuerpo es azulado y posee espinas. Puede estar a pleno sol o en semisombra. Riego moderado.",
+        "descripcion": "Su cuerpo es azulado y posee espinas. Puede estar a pleno sol o en semisombra.",
         "precio": 4500,
         "foto": "../media/producto7.jpg"
     },
     {
         "id":"8",
         "nombre":"Peruvianus Monstruosa",
-        "descripcion": "variedad muy especial de Cereus Peruvianus. Adopta una curiosa forma al crecer horizontalmente en vez de hacia arriba",
+        "descripcion": "Adopta una curiosa forma al crecer horizontalmente en vez de hacia arriba",
         "precio": 600,
         "foto": "../media/producto8.jpg"
     },
     {
         "id":"9",
         "nombre":"Copiapoa Humilis",
-        "descripcion": "tiene tallos que crecen agrupados en la base, y sus flores de color amarillo azufre crecen en la parte superior de la planta.",
+        "descripcion": "Sus flores de color amarillo azufre crecen en la parte superior de la planta.",
         "precio": 800,
         "foto": "../media/producto9.jpg"
     }
