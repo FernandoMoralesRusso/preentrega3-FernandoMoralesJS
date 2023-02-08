@@ -30,7 +30,7 @@
     {
         "id":"5",
         "nombre":"Astrophytum Myriostigma",
-        "descripcion": "No tiene espinas, pero da grandes flores amarillas. Prefiere la semisombra al pleno sol. ",
+        "descripcion": "No tiene espinas, da grandes flores amarillas. Prefiere la semisombra al pleno sol. ",
         "precio": 2000,
         "foto": "../media/producto5.jpg"
     },
