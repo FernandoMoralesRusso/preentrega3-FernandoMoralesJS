@@ -16,7 +16,7 @@
     {
         "id":"3",
         "nombre":"Eriosyce Senilis",
-        "descripcion": "espinas blanquecinas y retorcidas y unas flores púrpuras.",
+        "descripcion": "espinas blanquecinas y retorcidas.",
         "precio": 850,
         "foto": "../media/producto3.jpg"
     },
